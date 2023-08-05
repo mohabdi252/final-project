@@ -1,0 +1,6 @@
+"name","description","category","subcategory","brand","unit","group", "product_type","upc","selling_price","stock_reminder_quantity",variant_value,variant_name
+"Product 1","description...","Category-Wheat","Subcategory-Sister Fisher I","Brand-Cornsilk","Unit-Purple","Group-Teal","variant","upc-02",211,11,"xl,red,invalid","red xl"
+"Product 1","description...","Category-Wheat","Subcategory-Sister Fisher I","Brand-Cornsilk","Unit-Purple","Group-Teal","variant","upc-03",211,11,"white,m,abul","white m"
+"Product 2","description...","Category-Wheat","Subcategory-Sister Fisher I","Brand-Cornsilk","Unit-Purple","Group-Teal","single","upc-04",200,05,"",""
+
+
